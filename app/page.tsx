@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        안녕 난 병진이야 pro
+        나도 병진이야 Dev
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
